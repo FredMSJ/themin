@@ -1,0 +1,21 @@
+{
+  "name": "themin",
+  "displayName": "Themin",
+  "description": "A minimal dark theme for good fellas",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Themin",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Themin-color-theme.json"
+      }
+    ]
+  }
+}
