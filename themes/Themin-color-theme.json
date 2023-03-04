@@ -3,7 +3,7 @@
 	"colors": {
 		"foreground": "#888888",
 		
-		"focusBorder": "#444",
+		"focusBorder": "#0d0d0d",
 
 		"menu.background": "#0d0d0d",
 		"menu.border": "#0d0d0d",
@@ -97,12 +97,15 @@
 		"scrollbarSlider.hoverBackground": "#1d1d1db4",
 
 		"sideBar.background": "#0d0d0d",
+		"sideBarSectionHeader.background": "#0d0d0d",
+    	"sideBarSectionHeader.border": "#0d0d0d",
 
 		"statusBar.background": "#0d0d0d",
 		"statusBar.debuggingBackground": "#0d0d0d",
 		"statusBar.foreground": "#7E7E7E",
 		"statusBar.noFolderBackground": "#0d0d0d",
 
+		"statusBarItem.hoverBackground": "#0d0d0d",
 		"statusBarItem.remoteForeground": "#7E7E7E",
 		"statusBarItem.remoteBackground": "#0d0d0d",
 		"statusBarItem.prominentBackground": "#fafafa1a",
@@ -123,6 +126,8 @@
 		"titleBar.border": "#00000000",
 
 		"terminal.ansiBrightBlack": "#5c5c5c",
+
+		"toolbar.hoverBackground": "#0d0d0d",
 
 		"input.border": "#0d0d0d",
 		"input.background": "#0d0d0d",
