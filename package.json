@@ -2,10 +2,23 @@
   "name": "themin",
   "displayName": "Themin",
   "description": "A minimal dark theme for good fellas",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "Homerotto",
   "engines": {
     "vscode": "^1.76.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FredMSJ/themin"
+  },
+  "keywords": [
+    "theme",
+    "min",
+    "minimal",
+    "dark",
+    "hyper",
+    "homerotto"
+  ],
   "categories": [
     "Themes"
   ],
