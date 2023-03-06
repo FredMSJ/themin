@@ -5,6 +5,6 @@
 
 A minimal dark theme for good fellas.
 
-![preview-dark](https://vscodethemes.com/e/homerotto.themin/themin.svg?language=javascript)
+![preview-dark](https://raw.githubusercontent.com/FredMSJ/themin/master/themin-showup.png)
 
 </div>
