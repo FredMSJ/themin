@@ -2,6 +2,7 @@
   "name": "themin",
   "displayName": "Themin",
   "description": "A minimal dark theme for good fellas",
+  "icon": "tm.png",
   "version": "1.1.0",
   "publisher": "Homerotto",
   "engines": {
