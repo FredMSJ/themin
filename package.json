@@ -3,7 +3,7 @@
   "displayName": "Themin",
   "description": "A minimal dark theme for good fellas",
   "icon": "tm.png",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "Homerotto",
   "engines": {
     "vscode": "^1.76.0"
