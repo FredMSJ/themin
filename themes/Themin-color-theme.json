@@ -238,7 +238,7 @@
 			"scope": ["entity.other.attribute-name", "entity.other.inherited-class"],
 			"settings": {
 				"foreground": "#fdfdfe",
-				"fontStyle": "italic"
+				// "fontStyle": "italic"
 			}
 		},
 		{
@@ -275,7 +275,7 @@
 			"scope": "meta.directive.vue",
 			"settings": {
 				"foreground": "#fdfdfe",
-				"fontStyle": "italic"
+				// "fontStyle": "italic"
 			}
 		},
 		{
@@ -348,14 +348,14 @@
 			"scope": ["support.function"],
 			"settings": {
 				"foreground": "#f58ee0",
-				"fontStyle": "italic"
+				// "fontStyle": "italic"
 			}
 		},
 		{
 			"scope": ["variable"],
 			"settings": {
 				"foreground": "#ffbb88",
-				"fontStyle": "italic"
+				// "fontStyle": "italic"
 			}
 		},
 		{
