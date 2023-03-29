@@ -26,10 +26,17 @@
   "contributes": {
     "themes": [
       {
+        "id": "Themin",
         "label": "Themin",
         "uiTheme": "vs-dark",
         "path": "./themes/Themin-color-theme.json"
-      }
+      },
+      {
+				"id": "Themin - C++",
+				"label": "Themin - C++",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Themin-color-theme-cpp.json"
+			}
     ]
   }
 }
