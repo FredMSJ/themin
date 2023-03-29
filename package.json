@@ -3,7 +3,7 @@
   "displayName": "Themin",
   "description": "A minimal dark theme for good fellas",
   "icon": "tm.png",
-  "version": "1.8.1",
+  "version": "1.8.2",
   "publisher": "Homerotto",
   "engines": {
     "vscode": "^1.76.0"
@@ -32,11 +32,11 @@
         "path": "./themes/Themin-color-theme.json"
       },
       {
-				"id": "Themin - C++",
-				"label": "Themin - C++",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Themin-color-theme-cpp.json"
-			}
+        "id": "Themin - C++",
+        "label": "Themin - C++",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Themin-color-theme-cpp.json"
+      }
     ]
   }
 }
