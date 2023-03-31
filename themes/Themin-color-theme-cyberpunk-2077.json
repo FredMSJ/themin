@@ -1,5 +1,5 @@
 {
-	"name": "Themin",
+	"name": "Themin - Cyberpunk 2077",
 	"colors": {
 		"foreground": "#888888",
 		
@@ -132,19 +132,19 @@
 		"titleBar.border": "#00000000",
 
 		"terminal.ansiBlack": "#131317",
-		"terminal.ansiBlue": "#c58fff",
+		"terminal.ansiBlue": "#19370DB",
 		"terminal.ansiBrightBlack": "#5c5c5c",
-		"terminal.ansiBrightBlue": "#c58fff",
-		"terminal.ansiBrightCyan": "#ffbb88",
-		"terminal.ansiBrightGreen": "#8eb6f5",
+		"terminal.ansiBrightBlue": "#19370DB",
+		"terminal.ansiBrightCyan": "#FDF500",
+		"terminal.ansiBrightGreen": "#1AC5B0",
 		"terminal.ansiBrightMagenta": "#fdfdfe",
-		"terminal.ansiBrightRed": "#f58ee0",
+		"terminal.ansiBrightRed": "#E455AE",
 		"terminal.ansiBrightWhite": "#868690",
 		"terminal.ansiBrightYellow": "#9898a6",
-		"terminal.ansiCyan": "#ffbb88",
-		"terminal.ansiGreen": "#8eb6f5",
+		"terminal.ansiCyan": "#FDF500",
+		"terminal.ansiGreen": "#1AC5B0",
 		"terminal.ansiMagenta": "#fdfdfe",
-		"terminal.ansiRed": "#f58ee0",
+		"terminal.ansiRed": "#E455AE",
 		"terminal.ansiWhite": "#868690",
 		"terminal.ansiYellow": "#9898a6",
 
