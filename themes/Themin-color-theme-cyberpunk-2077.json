@@ -374,14 +374,22 @@
 			}
 		},
 		{
-			"name": "String interpolation",
+			"name": "Embed section",
 			"scope": [
-				"punctuation.definition.template-expression.begin",
-				"punctuation.definition.template-expression.end",
 				"punctuation.section.embedded"
 			],
 			"settings": {
 				"foreground": "#FF003C"
+			}
+		},
+		{
+			"name": "Template String",
+			"scope": [
+				"punctuation.definition.template-expression.begin",
+				"punctuation.definition.template-expression.end"
+			],
+			"settings": {
+				"foreground": "#e455ae"
 			}
 		}
 	]
