@@ -132,17 +132,17 @@
 		"titleBar.border": "#00000000",
 
 		"terminal.ansiBlack": "#131317",
-		"terminal.ansiBlue": "#9370DB",
+		"terminal.ansiBlue": "#1ac5b0",
 		"terminal.ansiBrightBlack": "#5c5c5c",
-		"terminal.ansiBrightBlue": "#9370DB",
+		"terminal.ansiBrightBlue": "#1ac5b0",
 		"terminal.ansiBrightCyan": "#FDF500",
-		"terminal.ansiBrightGreen": "#1ac5b0",
+		"terminal.ansiBrightGreen": "#9370db",
 		"terminal.ansiBrightMagenta": "#fdfdfe",
 		"terminal.ansiBrightRed": "#e455ae",
 		"terminal.ansiBrightWhite": "#868690",
 		"terminal.ansiBrightYellow": "#9898a6",
 		"terminal.ansiCyan": "#FDF500",
-		"terminal.ansiGreen": "#1ac5b0",
+		"terminal.ansiGreen": "#9370db",
 		"terminal.ansiMagenta": "#fdfdfe",
 		"terminal.ansiRed": "#e455ae",
 		"terminal.ansiWhite": "#868690",
@@ -202,7 +202,7 @@
 		{
 			"scope": ["constant"],
 			"settings": {
-				"foreground": "#1ac5b0"
+				"foreground": "#9370db"
 			}
 		},
 		{
@@ -229,7 +229,7 @@
 				"entity.name.type"
 			],
 			"settings": {
-				"foreground": "#9370DB"
+				"foreground": "#1ac5b0"
 			}
 		},
 		{
@@ -254,7 +254,7 @@
 		{
 			"scope": ["keyword"],
 			"settings": {
-				"foreground": "#1ac5b0"
+				"foreground": "#9370db"
 			}
 		},
 		{
@@ -266,7 +266,7 @@
 		{
 			"scope": ["meta.import", "meta.export"],
 			"settings": {
-				"foreground": "#1ac5b0"
+				"foreground": "#9370db"
 			}
 		},
 		{
@@ -279,7 +279,7 @@
 		{
 			"scope": "meta.property-name.css",
 			"settings": {
-				"foreground": "#9370DB"
+				"foreground": "#1ac5b0"
 			}
 		},
 		{
@@ -303,7 +303,7 @@
 		{
 			"scope": ["punctuation.accessor"],
 			"settings": {
-				"foreground": "#1ac5b0"
+				"foreground": "#9370db"
 			}
 		},
 		{
@@ -321,7 +321,7 @@
 		{
 			"scope": ["storage.type", "storage.modifier"],
 			"settings": {
-				"foreground": "#1ac5b0"
+				"foreground": "#9370db"
 			}
 		},
 		{
@@ -333,7 +333,7 @@
 		{
 			"scope": ["support"],
 			"settings": {
-				"foreground": "#9370DB"
+				"foreground": "#1ac5b0"
 			}
 		},
 		{
