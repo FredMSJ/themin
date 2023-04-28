@@ -132,9 +132,9 @@
 		"titleBar.border": "#00000000",
 
 		"terminal.ansiBlack": "#131317",
-		"terminal.ansiBlue": "#1ac5b0",
+		"terminal.ansiBlue": "#FF003C",
 		"terminal.ansiBrightBlack": "#5c5c5c",
-		"terminal.ansiBrightBlue": "#1ac5b0",
+		"terminal.ansiBrightBlue": "#FF003C",
 		"terminal.ansiBrightCyan": "#FDF500",
 		"terminal.ansiBrightGreen": "#9370db",
 		"terminal.ansiBrightMagenta": "#fdfdfe",
@@ -229,7 +229,7 @@
 				"entity.name.type"
 			],
 			"settings": {
-				"foreground": "#1ac5b0"
+				"foreground": "#FF003C"
 			}
 		},
 		{
@@ -279,7 +279,7 @@
 		{
 			"scope": "meta.property-name.css",
 			"settings": {
-				"foreground": "#1ac5b0"
+				"foreground": "#FF003C"
 			}
 		},
 		{
@@ -333,7 +333,7 @@
 		{
 			"scope": ["support"],
 			"settings": {
-				"foreground": "#1ac5b0"
+				"foreground": "#FF003C"
 			}
 		},
 		{
@@ -379,7 +379,7 @@
 				"punctuation.section.embedded"
 			],
 			"settings": {
-				"foreground": "#FF003C"
+				"foreground": "#00F0FF"
 			}
 		},
 		{
