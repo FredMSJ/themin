@@ -43,6 +43,12 @@
         "path": "./themes/Themin-color-theme-cyberpunk-2077-terminal.json"
       },
       {
+        "id": "Themin - Cyberpunk 2077 - Oled",
+        "label": "Themin - Cyberpunk 2077 - Oled",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Themin-color-theme-cyberpunk-2077-oled.json"
+      },
+      {
         "id": "Themin",
         "label": "Themin",
         "uiTheme": "vs-dark",
