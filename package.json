@@ -49,6 +49,12 @@
         "path": "./themes/Themin-color-theme-cyberpunk-2077-oled.json"
       },
       {
+        "id": "Themin - Dark Side",
+        "label": "Themin - Dark Side",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Themin-color-theme-dark-side.json"
+      },
+      {
         "id": "Themin",
         "label": "Themin",
         "uiTheme": "vs-dark",
