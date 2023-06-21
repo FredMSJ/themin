@@ -273,7 +273,6 @@
 			"scope": "meta.directive.vue",
 			"settings": {
 				"foreground": "#ecb648"
-				// "fontStyle": "italic"
 			}
 		},
 		{
@@ -346,14 +345,12 @@
 			"scope": ["support.function"],
 			"settings": {
 				"foreground": "#FFDD54"
-				// "fontStyle": "italic"
 			}
 		},
 		{
 			"scope": ["variable"],
 			"settings": {
 				"foreground": "#51C683"
-				// "fontStyle": "italic"
 			}
 		},
 		{

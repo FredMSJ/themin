@@ -236,7 +236,6 @@
 			"scope": ["entity.other.attribute-name", "entity.other.inherited-class"],
 			"settings": {
 				"foreground": "#fdfdfe"
-				// "fontStyle": "italic"
 			}
 		},
 		{
@@ -273,7 +272,6 @@
 			"scope": "meta.directive.vue",
 			"settings": {
 				"foreground": "#fdfdfe"
-				// "fontStyle": "italic"
 			}
 		},
 		{
@@ -346,14 +344,12 @@
 			"scope": ["support.function"],
 			"settings": {
 				"foreground": "#e455ae"
-				// "fontStyle": "italic"
 			}
 		},
 		{
 			"scope": ["variable"],
 			"settings": {
 				"foreground": "#FDF500"
-				// "fontStyle": "italic"
 			}
 		},
 		{
