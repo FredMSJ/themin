@@ -131,23 +131,6 @@
 		"titleBar.inactiveBackground": "#0d0d0d",
 		"titleBar.border": "#00000000",
 
-		// "terminal.ansiBlack": "#131317",
-		// "terminal.ansiBlue": "#c58fff",
-		// "terminal.ansiBrightBlack": "#5c5c5c",
-		// "terminal.ansiBrightBlue": "#c58fff",
-		// "terminal.ansiBrightCyan": "#ffbb88",
-		// "terminal.ansiBrightGreen": "#8eb6f5",
-		// "terminal.ansiBrightMagenta": "#fdfdfe",
-		// "terminal.ansiBrightRed": "#f58ee0",
-		// "terminal.ansiBrightWhite": "#868690",
-		// "terminal.ansiBrightYellow": "#9898a6",
-		// "terminal.ansiCyan": "#ffbb88",
-		// "terminal.ansiGreen": "#8eb6f5",
-		// "terminal.ansiMagenta": "#fdfdfe",
-		// "terminal.ansiRed": "#f58ee0",
-		// "terminal.ansiWhite": "#868690",
-		// "terminal.ansiYellow": "#9898a6",
-
 		"toolbar.hoverBackground": "#0d0d0d",
 
 		"input.border": "#0d0d0d",

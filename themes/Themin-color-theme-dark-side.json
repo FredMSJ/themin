@@ -131,23 +131,6 @@
 		"titleBar.inactiveBackground": "#0d0d0d",
 		"titleBar.border": "#00000000",
 
-		"terminal.ansiBlack": "#131317",
-		"terminal.ansiBlue": "#ef625c",
-		"terminal.ansiBrightBlack": "#5c5c5c",
-		"terminal.ansiBrightBlue": "#ef625c",
-		"terminal.ansiBrightCyan": "#51C683",
-		"terminal.ansiBrightGreen": "#ec544f",
-		"terminal.ansiBrightMagenta": "#ecb648",
-		"terminal.ansiBrightRed": "#FFDD54",
-		"terminal.ansiBrightWhite": "#868690",
-		"terminal.ansiBrightYellow": "#60dbe3",
-		"terminal.ansiCyan": "#51C683",
-		"terminal.ansiGreen": "#ec544f",
-		"terminal.ansiMagenta": "#ecb648",
-		"terminal.ansiRed": "#FFDD54",
-		"terminal.ansiWhite": "#868690",
-		"terminal.ansiYellow": "#60dbe3",
-
 		"toolbar.hoverBackground": "#0d0d0d",
 
 		"input.border": "#0d0d0d",
