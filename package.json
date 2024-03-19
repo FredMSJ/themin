@@ -31,6 +31,12 @@
   "contributes": {
     "themes": [
       {
+        "id": "Themin - C++",
+        "label": "Themin - C++",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Themin-color-theme-cpp.json"
+      },
+      {
         "id": "Themin - Cyberpunk 2077",
         "label": "Themin - Cyberpunk 2077",
         "uiTheme": "vs-dark",
@@ -59,12 +65,6 @@
         "label": "Themin",
         "uiTheme": "vs-dark",
         "path": "./themes/Themin-color-theme.json"
-      },
-      {
-        "id": "Themin - C++",
-        "label": "Themin - C++",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Themin-color-theme-cpp.json"
       }
     ]
   }
