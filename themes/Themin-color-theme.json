@@ -42,8 +42,8 @@
 		"editor.selectionBackground": "#8b8b8b60",
     	"editor.selectionHighlightBackground": "#47474771",
 
-		"editorIndentGuide.background": "#1d1d1d5f",
-		"editorIndentGuide.activeBackground": "#1d1d1d5f",
+		"editorIndentGuide.background1": "#1d1d1d5f",
+		"editorIndentGuide.activeBackground1": "#1d1d1d5f",
 
 		"editorGroupHeader.tabsBackground": "#0d0d0d",
 		"editorGroupHeader.tabsBorder": "#0d0d0d",

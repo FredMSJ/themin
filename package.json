@@ -3,7 +3,7 @@
   "displayName": "Themin",
   "description": "A minimal dark theme for good fellas",
   "icon": "tm.png",
-  "version": "2.3.1",
+  "version": "3.0.1",
   "publisher": "Homerotto",
   "engines": {
     "vscode": "^1.76.0"
@@ -23,13 +23,20 @@
     "cyberpunk2077",
     "cyberpunk 2077",
     "c++",
-    "cpp"
+    "cpp",
+    "mint"
   ],
   "categories": [
     "Themes"
   ],
   "contributes": {
     "themes": [
+      {
+        "id": "Themin - Mint",
+        "label": "Themin - Mint",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Themin-color-theme-mint.json"
+      },
       {
         "id": "Themin - C++",
         "label": "Themin - C++",
